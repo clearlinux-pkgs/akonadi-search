@@ -4,7 +4,7 @@
 #
 Name     : akonadi-search
 Version  : 18.08.0
-Release  : 1
+Release  : 2
 URL      : https://download.kde.org/stable/applications/18.08.0/src/akonadi-search-18.08.0.tar.xz
 Source0  : https://download.kde.org/stable/applications/18.08.0/src/akonadi-search-18.08.0.tar.xz
 Summary  : No detailed summary available
@@ -95,7 +95,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1535223958
+export SOURCE_DATE_EPOCH=1535424365
 mkdir clr-build
 pushd clr-build
 %cmake ..
@@ -103,7 +103,7 @@ make  %{?_smp_mflags}
 popd
 
 %install
-export SOURCE_DATE_EPOCH=1535223958
+export SOURCE_DATE_EPOCH=1535424365
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/doc/akonadi-search
 cp COPYING %{buildroot}/usr/share/doc/akonadi-search/COPYING
@@ -125,6 +125,8 @@ popd
 /usr/share/akonadi/agents/akonadiindexingagent.desktop
 /usr/share/kservices5/plasma-krunner-pimcontacts.desktop
 /usr/share/kservices5/plasma-krunner-pimcontacts_config.desktop
+/usr/share/xdg/akonadi-search.categories
+/usr/share/xdg/akonadi-search.renamecategories
 
 %files dev
 %defattr(-,root,root,-)
