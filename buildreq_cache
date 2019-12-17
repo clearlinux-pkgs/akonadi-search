@@ -1,8 +1,7 @@
-19.08.3
+19.12.0
 akonadi-dev
 akonadi-mime-dev
-boost-dev
-kcalcore-dev
+kcalendarcore-dev
 kcontacts-dev
 kmime-dev
 krunner-dev
