@@ -1,2 +1,10 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
+akonadi-dev
+akonadi-mime-dev
+kcalendarcore-dev
+kcontacts-dev
+kmime-dev
+krunner-dev
+plasma-framework-dev
+xapian-core-dev
