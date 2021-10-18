@@ -6,7 +6,7 @@
 #
 Name     : akonadi-search
 Version  : 21.08.2
-Release  : 34
+Release  : 35
 URL      : https://download.kde.org/stable/release-service/21.08.2/src/akonadi-search-21.08.2.tar.xz
 Source0  : https://download.kde.org/stable/release-service/21.08.2/src/akonadi-search-21.08.2.tar.xz
 Source1  : https://download.kde.org/stable/release-service/21.08.2/src/akonadi-search-21.08.2.tar.xz.sig
