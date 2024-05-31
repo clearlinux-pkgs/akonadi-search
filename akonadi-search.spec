@@ -9,7 +9,7 @@
 #
 Name     : akonadi-search
 Version  : 24.05.0
-Release  : 70
+Release  : 71
 URL      : https://download.kde.org/stable/release-service/24.05.0/src/akonadi-search-24.05.0.tar.xz
 Source0  : https://download.kde.org/stable/release-service/24.05.0/src/akonadi-search-24.05.0.tar.xz
 Source1  : https://download.kde.org/stable/release-service/24.05.0/src/akonadi-search-24.05.0.tar.xz.sig
