@@ -32,7 +32,6 @@ libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::CollectionQuery::CollectionQ
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::CollectionQuery::exec()
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::CollectionQuery::setLimit(int)
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::CollectionQuery::~CollectionQuery()
-libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::ContactCompleter::complete()
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::ContactQuery::ContactQuery()
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::ContactQuery::exec()
 libKPim6AkonadiSearchPIM.so.6:Akonadi::Search::PIM::ContactQuery::setLimit(int)
